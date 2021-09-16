@@ -1,0 +1,1 @@
+print(len(input("Enter a Word to know the lenght:\n")))
